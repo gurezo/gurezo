@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a freelance　software developer at lifewood. working on core system development.
+I'm a freelance software developer at lifewood. working on core system development.
 
 I like to develop web applications, IoT and love to contribute OSSs.
 
