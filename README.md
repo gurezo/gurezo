@@ -12,6 +12,12 @@ I'm also the organizer of ng-gunma which is a local Angular community in Gunma b
 - [Firefox OS Community](https://github.com/fxosorg)
 - [mozilla-japan / translation ](https://github.com/mozilla-japan/translation)
 
+### Get In Touch
+- [Github](https://github.com/gurezo)
+- [profiee](https://profiee.com/i/lifewood)
+- [Slideshare](https://www.slideshare.net/AkihikoKigure)
+- [Twitter](https://twitter.com/ic_lifewood)
+
 ![gurezo's github stats](https://github-readme-stats.vercel.app/api?username=gurezo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurezo)](https://github.com/gurezo/github-readme-stats)
