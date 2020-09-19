@@ -1,5 +1,16 @@
 ### Hi there 👋
-#### now building.... 🚧
+
+I'm a freelance　software developer at lifewood. working on core system development.
+
+I like to develop web applications, IoT and love to contribute OSSs.
+
+I'm also the organizer of ng-gunma which is a local Angular community in Gunma because I'm a big fan of Angular !
+
+#### contributes to the following communities
+- [angular / angular-ja ](https://github.com/angular/angular-ja)
+- [CHIRIMEN Open Hardware community](https://github.com/chirimen-oh)
+- [Firefox OS Community](https://github.com/fxosorg)
+- [mozilla-japan / translation ](https://github.com/mozilla-japan/translation)
 
 ![gurezo's github stats](https://github-readme-stats.vercel.app/api?username=gurezo)
 
