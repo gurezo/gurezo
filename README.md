@@ -13,6 +13,7 @@ I'm also the organizer of ng-gunma which is a local Angular community in Gunma b
 - [mozilla-japan / translation ](https://github.com/mozilla-japan/translation)
 
 ### Get In Touch
+- [Blog](https://lifewood.hatenablog.com/)
 - [Github](https://github.com/gurezo)
 - [profiee](https://profiee.com/i/lifewood)
 - [Slideshare](https://www.slideshare.net/AkihikoKigure)
