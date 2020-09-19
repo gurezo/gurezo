@@ -6,7 +6,7 @@ I like to develop web applications, IoT and love to contribute OSSs.
 
 I'm also the organizer of ng-gunma which is a local Angular community in Gunma because I'm a big fan of Angular !
 
-#### contributes to the following communities
+### contributes to the following communities
 - [angular / angular-ja ](https://github.com/angular/angular-ja)
 - [CHIRIMEN Open Hardware community](https://github.com/chirimen-oh)
 - [Firefox OS Community](https://github.com/fxosorg)
