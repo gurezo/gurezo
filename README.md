@@ -43,8 +43,6 @@ I'm also the organizer of ng-gunma which is a local Angular community in Gunma b
 <br>
 <br>
 
----
-
 ![gurezo's github stats](https://github-readme-stats.vercel.app/api?username=gurezo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurezo)](https://github.com/gurezo/github-readme-stats)
