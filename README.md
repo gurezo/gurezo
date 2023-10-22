@@ -23,9 +23,9 @@ I'm also the organizer of ng-gunma which is a local Angular community in Gunma b
 
 ### Launguge and Tools
 
-<img alt="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" style="max-width:100%;" width="26px" align="left"></a>
+<img alt="Angular" src="https://avatars.githubusercontent.com/u/139426?s=48&v=4" style="max-width:100%;" width="26px" align="left"></a>
 <img alt="CHIRIMEN Open Hardware" src="https://avatars0.githubusercontent.com/u/18115652?s=60&v=4" style="max-width:100%;" width="26px" align="left"></a>
-<img alt="Chrome" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" style="max-width:100%;" width="26px" align="left"></a>
+<img alt="Chrome" src="https://avatars.githubusercontent.com/u/1778935?s=200&v=4" style="max-width:100%;" width="26px" align="left"></a>
 <img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;" width="26px" align="left"></a>
 <img alt="Firefox" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/firefox/firefox.png" style="max-width:100%;" width="26px" align="left"></a>
 <img alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;" width="26px" align="left"></a>
