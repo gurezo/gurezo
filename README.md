@@ -23,6 +23,7 @@ I'm also the organizer of ng-gunma which is a local Angular community in Gunma b
 
 ### Launguge and Tools
 
+<div style="display:flex; padding: 4px;">
 <img alt="Angular" src="https://avatars.githubusercontent.com/u/139426?s=48&v=4" style="max-width:100%;" width="26px" align="left"></a>
 <img alt="CHIRIMEN Open Hardware" src="https://avatars0.githubusercontent.com/u/18115652?s=60&v=4" style="max-width:100%;" width="26px" align="left"></a>
 <img alt="Chrome" src="https://avatars.githubusercontent.com/u/1778935?s=200&v=4" style="max-width:100%;" width="26px" align="left"></a>
@@ -38,6 +39,7 @@ I'm also the organizer of ng-gunma which is a local Angular community in Gunma b
 <img alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;" width="26px" align="left"></a>
 <img alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;" width="26px" align="left"></a>
 <img alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;" width="26px" align="left">
+</div>
 <br>
 <br>
 
