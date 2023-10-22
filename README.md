@@ -24,21 +24,21 @@ I'm also the organizer of ng-gunma which is a local Angular community in Gunma b
 ### Launguge and Tools
 
 <div style="display:flex; padding: 2px;">
-<img alt="Angular" src="https://avatars.githubusercontent.com/u/139426?s=48&v=4" style="max-width:100%;" width="26px" align="left"></a>
-<img alt="CHIRIMEN Open Hardware" src="https://avatars0.githubusercontent.com/u/18115652?s=60&v=4" style="max-width:100%;" width="26px" align="left"></a>
-<img alt="Chrome" src="https://avatars.githubusercontent.com/u/1778935?s=200&v=4" style="max-width:100%;" width="26px" align="left"></a>
-<img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;" width="26px" align="left"></a>
-<img alt="Firefox" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/firefox/firefox.png" style="max-width:100%;" width="26px" align="left"></a>
-<img alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width:100%;" width="26px" align="left"></a>
-<img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;" width="26px" align="left"></a>
-<img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;" width="26px" align="left"></a>
-<img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;" width="26px" align="left"></a>
-<img alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;" width="26px" align="left"></a>
-<img alt="Rapsberry Pi" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" style="max-width:100%;" width="26px" align="left"></a>
-<img alt="Rust" src="https://avatars.githubusercontent.com/u/5430905?s=48&v=4" style="max-width:100%;" width="26px" align="left"></a>
-<img alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;" width="26px" align="left"></a>
-<img alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" style="max-width:100%;" width="26px" align="left"></a>
-<img alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;" width="26px" align="left">
+<img alt="Angular" src="https://avatars.githubusercontent.com/u/139426?s=48&v=4" width="26px" align="center"></a>
+<img alt="CHIRIMEN Open Hardware" src="https://avatars0.githubusercontent.com/u/18115652?s=60&v=4" width="26px" align="center"></a>
+<img alt="Chrome" src="https://avatars.githubusercontent.com/u/1778935?s=200&v=4" width="26px" align="center"></a>
+<img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="26px" align="center"></a>
+<img alt="Firefox" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/firefox/firefox.png" width="26px" align="center"></a>
+<img alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="26px" align="center"></a>
+<img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="26px" align="center"></a>
+<img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="26px" align="center"></a>
+<img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="26px" align="center"></a>
+<img alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="26px" align="center"></a>
+<img alt="Rapsberry Pi" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" width="26px" align="center"></a>
+<img alt="Rust" src="https://avatars.githubusercontent.com/u/5430905?s=48&v=4" width="26px" align="center"></a>
+<img alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="26px" align="center"></a>
+<img alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="26px" align="center"></a>
+<img alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="26px" align="center">
 </div>
 <br>
 <br>
