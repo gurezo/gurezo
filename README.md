@@ -23,7 +23,7 @@ I'm also the organizer of ng-gunma which is a local Angular community in Gunma b
 
 ### Launguge and Tools
 
-<div style="display:flex; padding: 2px;">
+<div style="display:flex; gap: 8px 8px;">
 <img alt="Angular" src="https://avatars.githubusercontent.com/u/139426?s=48&v=4" width="26px" align="center"></a>
 <img alt="CHIRIMEN Open Hardware" src="https://avatars0.githubusercontent.com/u/18115652?s=60&v=4" width="26px" align="center"></a>
 <img alt="Chrome" src="https://avatars.githubusercontent.com/u/1778935?s=200&v=4" width="26px" align="center"></a>
