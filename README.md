@@ -8,17 +8,21 @@ I'm also the organizer of ng-gunma which is a local Angular community in Gunma b
 
 ### contributes to the following communities
 
-- [angular / angular-ja ](https://github.com/angular/angular-ja)
+- [angular/angular-ja](https://github.com/angular/angular-ja)
 - [CHIRIMEN Open Hardware community](https://github.com/chirimen-oh)
 - [Firefox OS Community](https://github.com/fxosorg)
-- [mozilla-japan / translation ](https://github.com/mozilla-japan/translation)
+- [mdn/content](https://github.com/mdn/content)
+- [mdn/translated-content](https://github.com/mdn/translated-content)
+- [mdn/yari](https://github.com/mdn/yari)
+- [mozilla-japan/translation](https://github.com/mozilla-japan/translation)
 
 ### Get In Touch
 
 - [Blog](https://lifewood.hatenablog.com/)
+- [Docswell](https://www.docswell.com/user/ic_lifewood)
 - [Github](https://github.com/gurezo)
+- [LAPRAS](https://lapras.com/public/ic_lifewood)
 - [profiee](https://profiee.com/i/lifewood)
-- [Slideshare](https://www.slideshare.net/AkihikoKigure)
 - [Twitter](https://twitter.com/ic_lifewood)
 
 ### Launguge and Tools
