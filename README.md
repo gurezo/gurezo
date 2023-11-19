@@ -23,7 +23,7 @@ I'm also the organizer of ng-gunma which is a local Angular community in Gunma b
 - [Github](https://github.com/gurezo)
 - [LAPRAS](https://lapras.com/public/ic_lifewood)
 - [profiee](https://profiee.com/i/lifewood)
-- [Twitter](https://twitter.com/ic_lifewood)
+- [X(旧 Twitter)](https://twitter.com/ic_lifewood)
 
 ### Launguge and Tools
 
