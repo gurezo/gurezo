@@ -23,7 +23,7 @@ I'm also the organizer of ng-gunma which is a local Angular community in Gunma b
 |                 <img alt="Blog" src="./imgaes/hatenablog-logo.svg" width="26px" align="center" />                 | [Blog](https://lifewood.hatenablog.com/)              |
 |      <img alt="Docswell" src="https://bcdn.docswell.com/images/logo_nav.svg" width="26px" align="center" />       | [Docswell](https://www.docswell.com/user/ic_lifewood) |
 | <img alt="LAPRAS" src="https://avatars.githubusercontent.com/u/23022922?s=200&v=4" width="26px" align="center" /> | [LAPRAS](https://lapras.com/public/ic_lifewood)       |
-|   <img alt="https://d34fvv18nighkd.cloudfront.net/images/logo.svg" src="profiee" width="26px" align="center" />   | [profiee](https://profiee.com/i/lifewood)             |
+|   <img alt="profiee" src="https://d34fvv18nighkd.cloudfront.net/images/logo.svg" width="26px" align="center" />   | [profiee](https://profiee.com/i/lifewood)             |
 |                    <img alt="X" src="./imgaes/x-logo-black.png" width="26px" align="center" />                    | [X(旧 Twitter)](https://twitter.com/ic_lifewood)      |
 
 ### skills
