@@ -25,6 +25,13 @@ I'm also the organizer of ng-gunma which is a local Angular community in Gunma b
 - [profiee](https://profiee.com/i/lifewood)
 - [X(旧 Twitter)](https://twitter.com/ic_lifewood)
 
+<!--
+TODO: 後に書き換えをする想定
+### skills
+
+![](https://skillicons.dev/icons?i=angular,css,docker,git,html,js,raspberrypi,rust,rxjs,typescript,ubuntu,vscode)
+ -->
+
 ### Launguge and Tools
 
 <div style="display:flex; gap: 16px 16px;">
