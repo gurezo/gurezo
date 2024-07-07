@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a freelance software developer at lifewood. working on core system development.
+I'm LifeWood, a freelance software developer.
 
-I like to develop web applications, IoT and love to contribute OSSs.
+I love web application development, IoT, and OSS contributions.
 
-I'm also the organizer of ng-gunma which is a local Angular community in Gunma because I'm a big fan of Angular !
+I'm also an organizer of ng-gunma because I'm a big fan of Angular!
 
 ### contributes to the following communities
 
