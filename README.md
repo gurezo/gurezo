@@ -46,11 +46,10 @@ I'm also the organizer of ng-gunma which is a local Angular community in Gunma b
   <img alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="26px" align="center">
 </div>
 <br>
-<!-- 
-![gurezo's github stats](https://github-readme-stats.vercel.app/api?username=gurezo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurezo)](https://github.com/gurezo/github-readme-stats)
--->
+<!-- ![gurezo's github stats](https://github-readme-stats.vercel.app/api?username=gurezo) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurezo)](https://github.com/gurezo/github-readme-stats) -->
 
 ## [github](./github/README.md)
 
