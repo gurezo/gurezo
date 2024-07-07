@@ -26,7 +26,7 @@ I'm also an organizer of ng-gunma because I'm a big fan of Angular!
 
 ### skills
 
-![](https://skillicons.dev/icons?i=angular,css,docker,git,html,js,raspberrypi,rust,rxjs,typescript,ubuntu,vscode)
+![](https://skillicons.dev/icons?i=angular,css,docker,git,html,js,linux,raspberrypi,rust,rxjs,typescript,ubuntu,vscode)
 
 ## [Status](./github/README.md)
 
