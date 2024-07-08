@@ -8,7 +8,7 @@ I'm also an organizer of ng-gunma because I'm a big fan of Angular!
 
 ### contributes to the following communities
 
-|                                                                                                                                      |                                                                           |
+|                                                                 OSS                                                                  | link                                                                      |
 | :----------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------ |
 |           <img alt="Angular" src="https://avatars.githubusercontent.com/u/139426?s=48&v=4" width="26px" align="center" />            | [angular/angular-ja](https://github.com/angular/angular-ja)               |
 |       <img alt="Angular/Gunma" src="https://avatars.githubusercontent.com/u/56767497?s=200&v=4" width="26px" align="center" />       | [Angular Gunma](https://github.com/ng-gunma)                              |
