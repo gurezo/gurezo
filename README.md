@@ -22,7 +22,6 @@ I'm also an organizer of ng-gunma because I'm a big fan of Angular!
 - [Blog](https://lifewood.hatenablog.com/)
 - [Docswell](https://www.docswell.com/user/ic_lifewood)
 - [LAPRAS](https://lapras.com/public/ic_lifewood)
-- [profiee](https://profiee.com/i/lifewood)
 - [X / Twitter](https://twitter.com/ic_lifewood)
 
 ### skills
