@@ -18,17 +18,13 @@ I'm also an organizer of ng-gunma because I'm a big fan of Angular!
 
 ### Get In Touch
 
-- [Blog](https://lifewood.hatenablog.com/)
-- [Docswell](https://www.docswell.com/user/ic_lifewood)
-- [LAPRAS](https://lapras.com/public/ic_lifewood)
-- [profiee](https://profiee.com/i/lifewood)
-- [X / Twitter](https://twitter.com/ic_lifewood)
+- [Porfolio](https://lifewood.net/)
 
 ### skills
 
 ![](https://skills-icons.vercel.app/api/icons?i=angular,css,cursor,docker,firebase,gcp,git,html,js,linux,raspberrypi,rust,rxjs,typescript,ubuntu)
 
-## [Status](./github/README.md)
+## Status
 
 [![](https://raw.githubusercontent.com/gurezo/gurezo/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/gurezo/gurezo/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/gurezo/gurezo/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
