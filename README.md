@@ -28,16 +28,10 @@ I'm also an organizer of ng-gunma because I'm a big fan of Angular!
 
 ![](https://skills-icons.vercel.app/api/icons?i=angular,css,cursor,docker,firebase,gcp,git,html,js,linux,npm,raspberrypi,rust,rxjs,typescript,ubuntu)
 
-## Status
+## [Status](./github/README.md)
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurezo&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurezo&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurezo&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurezo&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gurezo&theme=github&utcOffset=9)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/gurezo/gurezo/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/gurezo/gurezo/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/gurezo/gurezo/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/gurezo/gurezo/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/gurezo/gurezo/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gurezo)](https://github.com/ryo-ma/github-profile-trophy)
