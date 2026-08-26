@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Akihiko.KIgure's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 7, Total Commits  (last year) : 4869, Total PRs: 1663, Total Issues: 1525, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 7, Total Commits  (last year) : 4896, Total PRs: 1667, Total Issues: 1528, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 78.2710139274254;
+        stroke-dashoffset: 78.27100978401499;
       }
     }
   
